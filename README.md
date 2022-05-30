@@ -1,1 +1,1 @@
-# Week1
+This is for Responsive Website assignment
